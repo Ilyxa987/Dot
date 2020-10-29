@@ -14,10 +14,6 @@ public class Ndot {
         this.y = y;
     }
 
-    public void setA(String a) {
-        this.a = a;
-    }
-
     public float getX() {
         return x;
     }
